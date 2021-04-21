@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# React Carousel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![License](https://img.shields.io/badge/license-MIT%20License-green)
 
-## Available Scripts
+### Table of Contents
 
-In the project directory, you can run:
+- [Description](#Description)
 
-### `yarn start`
+- [Installation](#Installation)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Technologies](#Technologies)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Usage](##Usage)
 
-### `yarn test`
+- [Contributing](#Contributing)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Questions](#Questions)
 
-### `yarn build`
+- [Tests](#Tests)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Photos](#Photos)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Description
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A carousel of images for a react page, using state to advance through the index of photos.
 
-### `yarn eject`
+used a <a href='https://youtu.be/l1MYfu5YWHc' target='_blank'>tutorial found on youtube,</a> thought I would have to use react-image-gallery but this is going to do what I want it to do.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Installation Instructions
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repo and then yarn start and view on localhost.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Technologies Used
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- list your technologies used in the app
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+advance through the images and backwards by the arrows on the side of the screen.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+email
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Questions
 
-### Analyzing the Bundle Size
+I can be reached via Github or email, please see the appropriate links below.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Github:
+<a href='https://github.com/daviddugle' target='_blank'>daviddugle</a>
 
-### Making a Progressive Web App
+Email:
+<a href='mailto:david.dugleii@yahoo.com'>david.dugleii@yahoo.com</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Tests
 
-### Advanced Configuration
+in browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Photos
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![DeployedPhoto](/public/screen.gif)
